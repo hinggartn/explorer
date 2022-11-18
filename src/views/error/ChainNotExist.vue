@@ -4,12 +4,16 @@
     <b-link class="brand-logo">
       <vuexy-logo />
       <h2 class="brand-text text-primary ml-1">
-        PING.PUB
+        NodeX Capital Explorer
       </h2>
     </b-link>
 
     <div class="misc-inner p-2 p-sm-3">
       <div class="w-100 text-center">
+        <br>
+        <br>
+        <br>
+        <br>
         <h2 class="mb-1">
           Sorry, The chain is not found
         </h2>
