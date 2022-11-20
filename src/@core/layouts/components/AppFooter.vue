@@ -1,12 +1,12 @@
 <template>
   <p class="clearfix mb-0">
     <span class="float-md-left d-none d-md-block d-md-inline-block mt-25">
-      Regards
+      Powered by
       <b-link
         class="ml-25 font-weight-bolder"
         href="#"
         target="_blank"
-      >https://nodexcapital.com</b-link>
+      >https://ping.pub</b-link>
     </span>
 
     <router-link

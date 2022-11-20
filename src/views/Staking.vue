@@ -2,7 +2,7 @@
   <div>
     <b-card
       v-if="pingVals && pingVals.length > 0"
-      title="🔥🔥 Stake with NodeX Capital 🔥🔥"
+      title="🔥 Stake with NodeX Capital 🔥"
       class="overflow-auto"
     >
       <b-table
