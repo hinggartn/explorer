@@ -1,8 +1,8 @@
 {
     "chain_name": "celestia",
     "coingecko": "",
-    "api": "https://celestia-api.skynetvalidators.com",
-    "rpc": [],
+    "api": ["https://celestia-testnet-api.polkachu.com/"],
+    "rpc": ["https://celestia-testnet-rpc.polkachu.com/"],
     "snapshot_provider": "",
     "sdk_version": "0.44.0",
     "coin_type": "118",
