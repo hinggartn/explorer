@@ -1,5 +1,5 @@
 {
-    "chain_name": "Neutron-Testnet",
+    "chain_name": "neutron",
     "api": ["https://neutron-api.nodexcapital.com", "https://api-t.neutron.nodestake.top"],
     "rpc": ["https://neutron-rpc.nodexcapital.com:443", "https://rpc-t.neutron.nodestake.top"],
     "snapshot_provider": "",

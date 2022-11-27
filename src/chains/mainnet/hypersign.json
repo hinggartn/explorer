@@ -1,0 +1,19 @@
+{
+    "chain_name": "hypersign",
+    "coingecko": "",
+    "api": ["https://api-t.hypersign.nodestake.top"],
+    "rpc": [""],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.7",
+    "coin_type": "118",
+    "min_tx_fee": "500",
+    "addr_prefix": "hid",
+    "logo": "/logos/hypersign.jpg",
+    "assets": [{
+        "base": "uhid",
+        "symbol": "HID",
+        "exponent": "18",
+        "coingecko_id": "",
+        "logo": "/logos/hypersign.jpg"
+    }]
+}
