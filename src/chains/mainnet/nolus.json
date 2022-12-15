@@ -1,0 +1,18 @@
+{
+    "chain_name": nolus
+    "api": ["https://api-t.nolus.nodestake.top","https://net-rila.nolus.io:1317"],
+    "rpc": "",
+    "snapshot_provider": "",
+    "sdk_version": "0.45.6",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "nolus",
+    "logo": "/logos/nolus.png",
+    "assets": [{
+        "base": "unls",
+        "symbol": "NOLUS",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/nolus.png"
+    }]
+}
