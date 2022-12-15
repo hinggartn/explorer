@@ -1,5 +1,5 @@
 {
-    "chain_name": nolus
+    "chain_name": "nolus",
     "api": ["https://api-t.nolus.nodestake.top","https://net-rila.nolus.io:1317"],
     "rpc": "",
     "snapshot_provider": "",
