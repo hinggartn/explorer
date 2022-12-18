@@ -1,7 +1,7 @@
 {
     "chain_name": "OKP4",
-    "api": ["http://api.okp4.nodexcapital.com/"],
-    "rpc": ["hhttp://rpc.okp4.nodexcapital.com/"],
+    "api": ["https://api.okp4.nodexcapital.com/"],
+    "rpc": ["https://rpc.okp4.nodexcapital.com/"],
     "snapshot_provider": "",
     "sdk_version": "0.46.2",
     "coin_type": "118",
