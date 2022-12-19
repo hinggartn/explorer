@@ -1,0 +1,19 @@
+{
+    "chain_name": "HUMANS",
+    "api": ["https://api.humans.nodexcapital.com/"],
+    "rpc": ["https://rpc.humans.nodexcapital.com/"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.2",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "humans",
+    "logo": "/logos/humans.png",
+    "assets": [
+      {
+        "base": "uheart",
+        "symbol": "HEARTH",
+        "exponent": "6",
+        "logo": "/logos/humans.png"
+      }
+    ]
+  }
