@@ -1,5 +1,5 @@
 {
-    "chain_name": "nolus",
+    "chain_name": "NOLUS",
     "api": "https://api.nolus.nodexcapital.com/",
     "rpc": "https://rpc.nolus.nodexcapital.com/",
     "snapshot_provider": "",
