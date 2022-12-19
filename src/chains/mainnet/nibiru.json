@@ -1,7 +1,7 @@
 {
     "chain_name": "nibiru",
-    "api": ["https://nibiru.api.t.stavr.tech/"],
-    "rpc": [""],
+    "api": ["https://api.nibiru.nodexcapital.com/"],
+    "rpc": ["https://rpc.nibiru.nodexcapital.com/"],
     "snapshot_provider": "",
     "sdk_version": "0.45.7",
     "coin_type": "118",
