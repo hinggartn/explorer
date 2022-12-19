@@ -1,7 +1,7 @@
 {
     "chain_name": "nolus",
-    "api": ["https://api-t.nolus.nodestake.top","https://net-rila.nolus.io:1317"],
-    "rpc": "",
+    "api": "https://api.nolus.nodexcapital.com/",
+    "rpc": "https://rpc.nolus.nodexcapital.com/",
     "snapshot_provider": "",
     "sdk_version": "0.45.6",
     "coin_type": "118",
