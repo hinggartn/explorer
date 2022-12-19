@@ -1,5 +1,5 @@
 {
-    "chain_name": "HUMANS",
+    "chain_name": "humans",
     "api": ["https://api.humans.nodexcapital.com/"],
     "rpc": ["https://rpc.humans.nodexcapital.com/"],
     "snapshot_provider": "",
