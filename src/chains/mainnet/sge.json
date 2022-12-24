@@ -1,0 +1,19 @@
+{
+    "chain_name": "Sigma",
+    "api": ["https://api.sge.nodexcapital.com/"],
+    "rpc": ["https://rpc.sge.nodexcapital.com/"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.6",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "sge",
+    "logo": "/logos/sge.png",
+    "assets": [
+      {
+        "base": "usge",
+        "symbol": "SGE",
+        "exponent": "6",
+        "logo": "/logos/sge.png"
+      }
+    ]
+  }
