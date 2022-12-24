@@ -1,17 +1,17 @@
 {
     "chain_name": "celestia",
     "coingecko": "",
-    "api": ["https://celestia-testnet-api.polkachu.com/"],
-    "rpc": ["https://celestia-testnet-rpc.polkachu.com/"],
+    "api": ["https://api.celestia.nodexcapital.com/"],
+    "rpc": ["https://rpc.celestia.nodexcapital.com/"],
     "snapshot_provider": "",
-    "sdk_version": "0.44.0",
+    "sdk_version": "0.46.0",
     "coin_type": "118",
     "min_tx_fee": "800",
     "addr_prefix": "celestia",
     "logo": "/logos/celestia.png",
     "assets": [{
-        "base": "celes",
-        "symbol": "CELES",
+        "base": "utia",
+        "symbol": "TIA",
         "exponent": "0",
         "coingecko_id": "",
         "logo": "/logos/celestia.png"
