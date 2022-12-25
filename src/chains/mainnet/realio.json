@@ -3,14 +3,14 @@
     "api": ["https://api.realio.nodexcapital.com/"],
     "rpc": ["https://rpc.realio.nodexcapital.com/"],
     "snapshot_provider": "",
-    "sdk_version": "0.45.7",
-    "coin_type": "118",
+    "sdk_version": "0.45.6",
+    "coin_type": "60",
     "min_tx_fee": "800",
     "addr_prefix": "realio",
     "logo": "/logos/realio.png",
     "assets": [{
         "base": "ario",
-        "symbol": "ARIO",
+        "symbol": "RIO",
         "exponent": "18",
         "coingecko_id": "",
         "logo": "/logos/realio.png"
