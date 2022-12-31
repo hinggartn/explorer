@@ -1,0 +1,19 @@
+{
+    "chain_name": "TERP",
+    "api": ["https://api.terp.nodexcapital.com/"],
+    "rpc": ["https://rpc.terp.nodexcapital.com/"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.6",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "terp",
+    "logo": "/logos/terp.png",
+    "assets": [
+      {
+        "base": "uterpx",
+        "symbol": "TERP",
+        "exponent": "6",
+        "logo": "/logos/terp.png"
+      }
+    ]
+  }
