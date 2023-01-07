@@ -4,7 +4,7 @@
     "api": ["https://api.celestia.nodexcapital.com/"],
     "rpc": ["https://rpc.celestia.nodexcapital.com/"],
     "snapshot_provider": "",
-    "sdk_version": "0.46.0",
+    "sdk_version": "0.45.5",
     "coin_type": "118",
     "min_tx_fee": "800",
     "addr_prefix": "celestia",
@@ -12,7 +12,7 @@
     "assets": [{
         "base": "utia",
         "symbol": "TIA",
-        "exponent": "0",
+        "exponent": "6",
         "coingecko_id": "",
         "logo": "/logos/celestia.png"
     }]
