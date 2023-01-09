@@ -1,0 +1,19 @@
+{
+    "chain_name": "LAVA",
+    "api": ["https://api.lava.nodexcapital.com/"],
+    "rpc": ["https://rpc.lava.nodexcapital.com/"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.6",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "lava",
+    "logo": "/logos/lava.svg",
+    "assets": [
+      {
+        "base": "ulava",
+        "symbol": "LAVA",
+        "exponent": "6",
+        "logo": "/logos/lava.svg"
+      }
+    ]
+  }
