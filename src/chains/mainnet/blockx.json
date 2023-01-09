@@ -5,14 +5,14 @@
     "snapshot_provider": "",
     "sdk_version": "0.45.7",
     "coin_type": "118",
-    "min_tx_fee": "800",
+    "min_tx_fee": "100000",
     "addr_prefix": "blockx",
     "logo": "/logos/blockx.png",
     "assets": [
       {
         "base": "abcx",
         "symbol": "BCX",
-        "exponent": "6",
+        "exponent": "18",
         "logo": "/logos/blockx.png"
       }
     ]
