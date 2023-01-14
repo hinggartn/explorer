@@ -1,0 +1,19 @@
+{
+    "chain_name": "MARS",
+    "api": ["https://mars-testnet-api.polkachu.com/","https://api.mars.nodexcapital.com/"],
+    "rpc": ["https://rpc.mars.nodexcapital.com/","https://mars-testnet-rpc.polkachu.com/"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.6",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "addr_prefix": "mars",
+    "logo": "/logos/mars.png",
+    "assets": [
+      {
+        "base": "umars",
+        "symbol": "MARS",
+        "exponent": "6",
+        "logo": "/logos/mars.png"
+      }
+    ]
+  }
