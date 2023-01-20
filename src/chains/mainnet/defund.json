@@ -1,22 +1,19 @@
 {
-    "chain_name": "empower",
-    "coingecko": "defund",
-    "api": ["https://defund-testnet.api.kjnodes.com"],
-    "rpc": [""],
+    "chain_name": "defund",
+    "coingecko": "",
+    "api": ["https://api.defund.nodexcapital.com/"],
+    "rpc": ["https://rpc.defund.nodexcapital.com/"],
     "snapshot_provider": "",
-    "sdk_version": "0.46.1",
+    "sdk_version": "0.45.6",
     "coin_type": "118",
     "min_tx_fee": "5000",
     "addr_prefix": "defund",
     "logo": "/logos/defund.png",
-    "assets": [
-      {
+    "assets": [{
         "base": "ufetf",
         "symbol": "FETF",
         "exponent": "6",
         "coingecko_id": "",
         "logo": "/logos/defund.png"
-      }
-    ]
-  }
-  
+    }]
+}
