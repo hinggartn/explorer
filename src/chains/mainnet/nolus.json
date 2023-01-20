@@ -1,11 +1,11 @@
 {
     "chain_name": "NOLUS",
-    "api": "https://api.nolus.nodexcapital.com/",
-    "rpc": "https://rpc.nolus.nodexcapital.com/",
+    "api": "[https://api.nolus.nodexcapital.com", "https://net-rila.nolus.io:1317"],
+    "rpc": "[https://rpc.nolus.nodexcapital.com", "https://net-rila.nolus.io:26657"],
     "snapshot_provider": "",
     "sdk_version": "0.45.6",
     "coin_type": "118",
-    "min_tx_fee": "800",
+    "min_tx_fee": "5000",
     "addr_prefix": "nolus",
     "logo": "/logos/nolus.png",
     "assets": [{
